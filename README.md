@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi there, I'm Harshal Salunke
 
-<!--
-**HarshalSalunke12/HarshalSalunke12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS Graduate | 💻 Aspiring Full Stack Developer (MERN)  
+🛠️ Skilled in C, C++, JavaScript, React, Node.js  
+📚 Currently learning full stack web development  
+🌱 Passionate about problem solving, and real-world web projects  
+📌 Based in Pune, India
 
-Here are some ideas to get you started:
+## 🚀 Projects Coming Soon:
+- 🌤️ Weather App (React + API)
+- ✅ To-Do List App (JavaScript)
+- 📋 Task Manager App (MERN Stack)
+- 🌐 Personal Portfolio Website
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect:
+- 📧 salunkeharshal12@gmail.com
+
+
