@@ -6,11 +6,11 @@
 🌱 Passionate about problem solving, and real-world web projects  
 📌 Based in Pune, India
 
-## 🚀 Projects Coming Soon:
-- 🌤️ Weather App (React + API)
-- ✅ To-Do List App (JavaScript)
-- 📋 Task Manager App (MERN Stack)
-- 🌐 Personal Portfolio Website
+## 🚀 Projects:
+- ✅ [To-Do List App](https://github.com/HarshalSalunke12/todo-list) - – A simple To-Do list using HTML, CSS, JS & localStorage
+- 📋 Task Manager App (MERN Stack) - Coming Soon
+- 🌐 Personal Portfolio Website - Coming Soon
+- 🌤️ Weather App (React + API) - Coming Soon
 
 ## 📫 Let's Connect:
 - 📧 salunkeharshal12@gmail.com
